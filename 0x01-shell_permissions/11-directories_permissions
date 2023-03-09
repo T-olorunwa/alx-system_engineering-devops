@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u+X,g+X,o+X /glade/u/home/root/directory/
+chmod -R u+X,g+X,o+X /root/0x01-shell_permissions/
